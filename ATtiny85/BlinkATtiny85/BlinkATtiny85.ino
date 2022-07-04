@@ -1,7 +1,7 @@
 /******************************************************************************* 
   *  Áster Electrónica
   *  Programación de ATtiny85
-  *  Ejemplo 'Hola Mundo Random' para microcontroladores ATtiny85 
+  *  Ejemplo 'BlinkATtiny85' para microcontroladores ATtiny85 
   *  Abstract: En este ejemplo se conectarán 5 leds rojos a las salidas del microcontrolador
   *  y encenderán de manera consecutiva.
   *  Hecho por Miguel AngelLo.
